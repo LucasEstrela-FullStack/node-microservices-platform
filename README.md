@@ -1,3 +1,7 @@
+<img width="1388" height="669" alt="image" src="https://github.com/user-attachments/assets/8218905e-12bd-4ba2-b67b-5d9cf82a7ba2" />
+<img width="1417" height="840" alt="image" src="https://github.com/user-attachments/assets/6e8e51e8-2b6c-41d8-bbcf-ef0b4d23d4cc" />
+<img width="1476" height="312" alt="image" src="https://github.com/user-attachments/assets/68e2ded2-adb9-4164-b062-43161f400bfd" />
+
 # Node.js Microservices Platform
 
 Este projeto é uma plataforma de microsserviços construída com Node.js, utilizando arquitetura de serviços independentes para gerenciar pedidos (orders) e faturas (invoices). A plataforma integra mensageria assíncrona, banco de dados PostgreSQL, API Gateway com Kong, e infraestrutura provisionada via Pulumi na AWS.
